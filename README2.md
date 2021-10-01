@@ -27,3 +27,9 @@ public class LaithZ extends Human implements Dev{
 	
 }
 ```
+
+Here are my stats:
+
+![LaithzYT's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaithzYT&show_icons=true&theme=vision-friendly-dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaithzYT&theme=vision-friendly-dark)
