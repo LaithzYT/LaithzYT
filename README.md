@@ -1,13 +1,35 @@
-- 👋 Hi, I’m @LaithzYT
-- 👀 I’m interested in Python , Java , HTML , Css , Skript
-- 🌱 I’m currently learning Python , Java , Skript , Javascript
-- 💞️ I’m looking to collaborate on Some Mc Pvp Clients
-- 📫 How to reach me discord : MST__mamdshakurthakur221#8683
+<div align="center">
+<h1>Hi <img src="images/Hi.gif" width="40px" />, I'm <a href="https://github.com/LaithzYT">LaithZ</a>!</h1>
+</div>
 
-Eeeeee i am stan of mc and i am java coder and i am website coder
-skrt pop pop pop i make pvp clients
+```java
+package multiverse.theUniverse.theLocalGroup.theMilkyWay.theEarth;
 
-<!---
-LaithzYT/LaithzYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+import java.util.Arrays;
+
+import life.theEarth.Human;
+import life.theEarth.IhumanQualities.Dev;
+
+public class LaithZ extends Human implements Dev{
+	
+	public LaithZ() {
+		this.name = "LaithZ";
+		this.addInterest("collaborate on Some Mc Pvp Clients");
+		this.addLanguage("Python", "Java", "HTML", "Css","Skript");
+		
+		this.setRandom("Eeeeee i am stan of mc and i am java coder and i am website coder skrt pop pop pop i make pvp clients");
+	}
+	
+	@Override
+	public String getContact() {
+		return "MST__mamdshakurthakur221#8683";
+	}
+	
+}
+```
+
+Here are my stats:
+
+![LaithzYT's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaithzYT&show_icons=true&theme=vision-friendly-dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaithzYT&theme=vision-friendly-dark)
