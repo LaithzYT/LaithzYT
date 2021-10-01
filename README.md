@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hi <img src="images/Hi.gif" width="40px" />, I'm <a href="https://github.com/LaithzYT">LaithZ</a>!</h1>
+<h1>Hi <img src="Hi.gif" width="40px" />, I'm <a href="https://github.com/LaithzYT">LaithZ</a>!</h1>
 </div>
 
 ```java
