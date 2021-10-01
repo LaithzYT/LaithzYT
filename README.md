@@ -1,6 +1,6 @@
 # Hi! Wellcome to my profile 👋
-Hello i'm @LaithzYT, or just **LaithZ**. I've been programming since I was (age).
-I started with (language),(other languages).
+Hello i'm @LaithzYT, or just **LaithZ**.
+I am learning theses languages: Python , Java , HTML , Css , Skript.
 I’m looking to collaborate on Some Mc Pvp Clients
 
 Eeeeee i am stan of mc and i am java coder and i am website coder skrt pop pop pop i make pvp clients
