@@ -15,13 +15,13 @@ public class LaithZ extends Human implements Dev{
 	public LaithZ() {
 		this.name = "LaithZ";
 		this.addInterest("collaborate on Some Mc Pvp Clients");
-		this.addLanguage("Python", "Java", "HTML", "Css","Skript");
+		this.addLanguage("Python", "Java", "HTML", "Css","C#");
 		
-		this.setRandom("Eeeeee i am stan of mc and i am java coder and i am website coder skrt pop pop pop i make pvp clients");
+		this.setRandom("I am a professional developer who has tons of knowledge in making static websites using Html, Css, and Javascript. I am currently learning C# and Python but i have a decent bit of knowledge in Java");
 	}
 	
 	@Override
-	public String getContact() {
+	public String getDiscordContact() {
 		return "MST__mamdshakurthakur221#8683";
 	}
 	
